@@ -1,5 +1,8 @@
 # MADS_Milestone2_Bird_Migration
 
+This is a project for Milestone 2, Master of Applied Data Science program (MADS), University of Michigan.
+
+Created: Feb 28, 2023
 
 Checklist data can be found at:
 https://drive.google.com/file/d/1t-F-3YYgX5y-vuxrvMY8CCfe4OWP7iuZ/view?usp=share_link
