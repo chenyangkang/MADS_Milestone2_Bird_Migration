@@ -78,9 +78,11 @@ eBird data were pre-filtered based on following rules:
 
 <img src="https://github.com/chenyangkang/MADS_Milestone2_Bird_Migration/blob/main/Figs/simple_animation.gif" width=50% height=50%>
 
+<img src="https://github.com/chenyangkang/MADS_Milestone2_Bird_Migration/blob/main/Figs/Model_perf_diff_sp.png" width=50% height=50%>
 
+<img src="https://github.com/chenyangkang/MADS_Milestone2_Bird_Migration/blob/main/Figs/ROI_based_heatmap.png" width=50% height=50%>
 
-
+<img src="https://github.com/chenyangkang/MADS_Milestone2_Bird_Migration/blob/main/Figs/ROI_based.png" width=50% height=50%>
 
 
 
