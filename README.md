@@ -71,6 +71,9 @@ eBird data were pre-filtered based on following rules:
 	    Mean and standard deviation of elevation, slope, eastness, northness.
 
 
+<img src="https://github.com/chenyangkang/MADS_Milestone2_Bird_Migration/blob/main/Figs/Migration_routes.png" width=50% height=50%>
+
+<img src="https://github.com/chenyangkang/MADS_Milestone2_Bird_Migration/blob/main/Figs/simple_animation.gif" width=50% height=50%>
 
 
 
